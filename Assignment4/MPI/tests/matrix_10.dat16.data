@@ -1,0 +1,165 @@
+Hello from 0
+total 2
+Hello from 1
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Time:  0.005670 seconds
+Error: 0.000000e+00
+Hello from 0
+total 2
+Hello from 1
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Time:  0.005182 seconds
+Error: 0.000000e+00
+Hello from 0
+total 2
+Hello from 1
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Time:  0.006477 seconds
+Error: 0.000000e+00
+Hello from 7
+total 5
+exiting [7] when [5]
+Hello from 3
+total 5
+Hello from 0
+total 5
+Hello from 2
+total 5
+Hello from 6
+total 5
+exiting [6] when [5]
+Hello from 4
+total 5
+Hello from 5
+total 5
+exiting [5] when [5]
+Hello from 12
+total 5
+exiting [12] when [5]
+Hello from 10
+total 5
+exiting [10] when [5]
+Hello from 11
+total 5
+exiting [11] when [5]
+Hello from 9
+total 5
+exiting [9] when [5]
+Hello from 15
+total 5
+exiting [15] when [5]
+Hello from 1
+total 5
+Hello from 8
+total 5
+exiting [8] when [5]
+Hello from 13
+total 5
+exiting [13] when [5]
+Hello from 14
+total 5
+exiting [14] when [5]
+Time:  0.004938 seconds
+Error: 0.000000e+00
+Hello from 3
+total 5
+Hello from 0
+total 5
+Hello from 1
+total 5
+Hello from 9
+total 5
+exiting [9] when [5]
+Hello from 5
+total 5
+exiting [5] when [5]
+Hello from 6
+total 5
+exiting [6] when [5]
+Hello from 7
+total 5
+exiting [7] when [5]
+Hello from 2
+total 5
+Hello from 4
+total 5
+Hello from 11
+total 5
+exiting [11] when [5]
+Hello from 12
+total 5
+exiting [12] when [5]
+Hello from 13
+total 5
+exiting [13] when [5]
+Hello from 8
+total 5
+exiting [8] when [5]
+Hello from 10
+total 5
+exiting [10] when [5]
+Hello from 14
+total 5
+exiting [14] when [5]
+Hello from 15
+total 5
+exiting [15] when [5]
+Time:  0.005287 seconds
+Error: 0.000000e+00
+Hello from 3
+total 5
+Hello from 0
+total 5
+Hello from 6
+total 5
+exiting [6] when [5]
+Hello from 12
+total 5
+exiting [12] when [5]
+Hello from 1
+total 5
+Hello from 14
+total 5
+exiting [14] when [5]
+Hello from 7
+total 5
+exiting [7] when [5]
+Hello from 4
+total 5
+Hello from 9
+total 5
+Hello from 13
+total 5
+exiting [13] when [5]
+Hello from 10
+total 5
+exiting [10] when [5]
+Hello from 15
+total 5
+exiting [15] when [5]
+exiting [9] when [5]
+Hello from 2
+total 5
+Hello from 8
+total 5
+exiting [8] when [5]
+Hello from 5
+total 5
+exiting [5] when [5]
+Hello from 11
+total 5
+exiting [11] when [5]
+Time:  0.005331 seconds
+Error: 0.000000e+00

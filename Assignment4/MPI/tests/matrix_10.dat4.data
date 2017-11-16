@@ -1,0 +1,66 @@
+Hello from 1
+total 2
+Hello from 3
+total 2
+Hello from 0
+total 2
+Hello from 2
+total 2
+Time:  0.005701 seconds
+Error: 0.000000e+00
+Hello from 1
+total 2
+Hello from 3
+total 2
+Hello from 2
+total 2
+Hello from 0
+total 2
+Time:  0.006647 seconds
+Error: 0.000000e+00
+Hello from 2
+total 2
+Hello from 3
+total 2
+Hello from 0
+total 2
+Hello from 1
+total 2
+Time:  0.005813 seconds
+Error: 0.000000e+00
+Hello from 3
+total 2
+Hello from 2
+total 2
+exiting [3] when [2]
+exiting [2] when [2]
+Hello from 0
+total 2
+Hello from 1
+total 2
+Time:  0.002061 seconds
+Error: 0.000000e+00
+Hello from 3
+total 2
+Hello from 1
+total 2
+exiting [3] when [2]
+Hello from 0
+total 2
+Hello from 2
+total 2
+exiting [2] when [2]
+Time:  0.002011 seconds
+Error: 0.000000e+00
+Hello from 3
+total 2
+exiting [3] when [2]
+Hello from 1
+total 2
+Hello from 0
+total 2
+Hello from 2
+total 2
+exiting [2] when [2]
+Time:  0.002048 seconds
+Error: 0.000000e+00

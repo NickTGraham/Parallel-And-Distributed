@@ -1,0 +1,309 @@
+Hello from 0
+total 2
+Hello from 1
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Time:  0.005704 seconds
+Error: 0.000000e+00
+Hello from 2
+total 2
+Hello from 3
+total 2
+Hello from 0
+total 2
+Hello from 1
+total 2
+Time:  0.005906 seconds
+Error: 0.000000e+00
+Hello from 0
+total 2
+Hello from 2
+total 2
+Hello from 1
+total 2
+Hello from 3
+total 2
+Time:  0.005351 seconds
+Error: 0.000000e+00
+Hello from 5
+total 5
+exiting [5] when [5]
+Hello from 2
+total 5
+Hello from 3
+total 5
+Hello from 8
+total 5
+exiting [8] when [5]
+Hello from 11
+total 5
+exiting [11] when [5]
+Hello from 26
+total 5
+exiting [26] when [5]
+Hello from 17
+total 5
+exiting [17] when [5]
+Hello from 23
+total 5
+exiting [23] when [5]
+Hello from 29
+total 5
+exiting [29] when [5]
+Hello from 6
+total 5
+exiting [6] when [5]
+Hello from 12
+total 5
+exiting [12] when [5]
+Hello from 1
+total 5
+Hello from 21
+total 5
+exiting [21] when [5]
+Hello from 14
+total 5
+exiting [14] when [5]
+Hello from 13
+total 5
+exiting [13] when [5]
+Hello from 15
+total 5
+exiting [15] when [5]
+Hello from 30
+total 5
+exiting [30] when [5]
+Hello from 20
+total 5
+Hello from 4
+total 5
+Hello from 27
+total 5
+exiting [27] when [5]
+Hello from 0
+total 5
+exiting [20] when [5]
+Hello from 16
+total 5
+exiting [16] when [5]
+Hello from 7
+total 5
+exiting [7] when [5]
+Hello from 9
+total 5
+exiting [9] when [5]
+Hello from 18
+total 5
+exiting [18] when [5]
+Hello from 28
+total 5
+exiting [28] when [5]
+Hello from 24
+total 5
+exiting [24] when [5]
+Hello from 10
+total 5
+exiting [10] when [5]
+Hello from 22
+total 5
+exiting [22] when [5]
+Hello from 19
+total 5
+exiting [19] when [5]
+Hello from 25
+total 5
+exiting [25] when [5]
+Hello from 31
+total 5
+exiting [31] when [5]
+Time:  0.005682 seconds
+Error: 0.000000e+00
+Hello from 5
+total 5
+exiting [5] when [5]
+Hello from 11
+total 5
+exiting [11] when [5]
+Hello from 23
+total 5
+exiting [23] when [5]
+Hello from 21
+total 5
+exiting [21] when [5]
+Hello from 8
+total 5
+exiting [8] when [5]
+Hello from 10
+total 5
+exiting [10] when [5]
+Hello from 17
+total 5
+exiting [17] when [5]
+Hello from 6
+total 5
+exiting [6] when [5]
+Hello from 7
+total 5
+exiting [7] when [5]
+Hello from 16
+total 5
+exiting [16] when [5]
+Hello from 3
+total 5
+Hello from 29
+total 5
+exiting [29] when [5]
+Hello from 18
+total 5
+exiting [18] when [5]
+Hello from 31
+total 5
+exiting [31] when [5]
+Hello from 28
+total 5
+exiting [28] when [5]
+Hello from 9
+total 5
+exiting [9] when [5]
+Hello from 15
+total 5
+exiting [15] when [5]
+Hello from 2
+total 5
+Hello from 27
+total 5
+exiting [27] when [5]
+Hello from 20
+total 5
+Hello from 4
+total 5
+Hello from 1
+total 5
+exiting [20] when [5]
+Hello from 22
+total 5
+exiting [22] when [5]
+Hello from 19
+total 5
+exiting [19] when [5]
+Hello from 26
+total 5
+exiting [26] when [5]
+Hello from 13
+total 5
+exiting [13] when [5]
+Hello from 14
+total 5
+exiting [14] when [5]
+Hello from 25
+total 5
+exiting [25] when [5]
+Hello from 0
+total 5
+Hello from 12
+total 5
+exiting [12] when [5]
+Hello from 24
+total 5
+exiting [24] when [5]
+Hello from 30
+total 5
+exiting [30] when [5]
+Time:  0.006157 seconds
+Error: 0.000000e+00
+Hello from 11
+total 5
+exiting [11] when [5]
+Hello from 17
+total 5
+exiting [17] when [5]
+Hello from 29
+total 5
+exiting [29] when [5]
+Hello from 15
+total 5
+exiting [15] when [5]
+Hello from 28
+total 5
+exiting [28] when [5]
+Hello from 5
+total 5
+exiting [5] when [5]
+Hello from 18
+total 5
+exiting [18] when [5]
+Hello from 8
+total 5
+exiting [8] when [5]
+Hello from 1
+total 5
+Hello from 23
+total 5
+exiting [23] when [5]
+Hello from 30
+total 5
+exiting [30] when [5]
+Hello from 14
+total 5
+exiting [14] when [5]
+Hello from 13
+total 5
+exiting [13] when [5]
+Hello from 26
+total 5
+exiting [26] when [5]
+Hello from 2
+total 5
+Hello from 3
+total 5
+Hello from 0
+total 5
+Hello from 20
+total 5
+exiting [20] when [5]
+Hello from 4
+total 5
+Hello from 9
+total 5
+exiting [9] when [5]
+Hello from 6
+total 5
+exiting [6] when [5]
+Hello from 7
+total 5
+exiting [7] when [5]
+Hello from 10
+total 5
+exiting [10] when [5]
+Hello from 21
+total 5
+exiting [21] when [5]
+Hello from 12
+total 5
+exiting [12] when [5]
+Hello from 19
+total 5
+exiting [19] when [5]
+Hello from 16
+total 5
+exiting [16] when [5]
+Hello from 27
+total 5
+exiting [27] when [5]
+Hello from 24
+total 5
+exiting [24] when [5]
+Hello from 25
+total 5
+exiting [25] when [5]
+Hello from 22
+total 5
+exiting [22] when [5]
+Hello from 31
+total 5
+exiting [31] when [5]
+Time:  0.005823 seconds
+Error: 0.000000e+00

@@ -1,0 +1,42 @@
+Hello from 0
+total 2
+Hello from 1
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Time:  0.006032 seconds
+Error: 2.000000e+01
+Hello from 1
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Hello from 0
+total 2
+Time:  0.007138 seconds
+Error: 0.000000e+00
+Hello from 0
+total 2
+Hello from 2
+total 2
+Hello from 3
+total 2
+Hello from 1
+total 2
+Time:  0.006412 seconds
+Error: 0.000000e+00
+Hello from 0
+total 1
+Time:  0.000314 seconds
+Error: 0.000000e+00
+Hello from 0
+total 1
+Time:  0.000319 seconds
+Error: 0.000000e+00
+Hello from 0
+total 1
+Time:  0.000259 seconds
+Error: 0.000000e+00

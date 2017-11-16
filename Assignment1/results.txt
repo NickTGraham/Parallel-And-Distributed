@@ -1,0 +1,1206 @@
+t 1 i 1
+Expected Result: 1
+Method One,1,9.927e-05
+Method Two,1,9.6495e-05
+Method Three,1,8.7588e-05
+Method Four,1,8.3099e-05
+Method Five,1,9.3132e-05
+ 
+t 1 i 1
+Expected Result: 1
+Method One,1,9.9778e-05
+Method Two,1,0.000113398
+Method Three,1,9.2697e-05
+Method Four,1,8.6474e-05
+Method Five,1,8.3981e-05
+ 
+t 1 i 1
+Expected Result: 1
+Method One,1,9.7771e-05
+Method Two,1,9.1921e-05
+Method Three,1,8.5052e-05
+Method Four,1,8.5174e-05
+Method Five,1,9.2794e-05
+ 
+t 1 i 1
+Expected Result: 1
+Method One,1,0.000107368
+Method Two,1,9.6131e-05
+Method Three,1,0.000112328
+Method Four,1,6.4911e-05
+Method Five,1,2.3103e-05
+ 
+t 1 i 1
+Expected Result: 1
+Method One,1,6.5349e-05
+Method Two,1,9.2247e-05
+Method Three,1,6.5122e-05
+Method Four,1,5.8429e-05
+Method Five,1,3.9615e-05
+ 
+t 1 i 100
+Expected Result: 100
+Method One,100,9.5971e-05
+Method Two,100,9.4267e-05
+Method Three,100,9.3678e-05
+Method Four,100,6.2289e-05
+Method Five,100,2.5359e-05
+ 
+t 1 i 100
+Expected Result: 100
+Method One,100,9.6661e-05
+Method Two,100,9.4725e-05
+Method Three,100,6.1641e-05
+Method Four,100,3.8519e-05
+Method Five,100,1.3894e-05
+ 
+t 1 i 100
+Expected Result: 100
+Method One,100,9.633e-05
+Method Two,100,9.3441e-05
+Method Three,100,9.3658e-05
+Method Four,100,5.4709e-05
+Method Five,100,1.4933e-05
+ 
+t 1 i 100
+Expected Result: 100
+Method One,100,7.0435e-05
+Method Two,100,7.8921e-05
+Method Three,100,3.2555e-05
+Method Four,100,2.0356e-05
+Method Five,100,1.5647e-05
+ 
+t 1 i 100
+Expected Result: 100
+Method One,100,9.7147e-05
+Method Two,100,8.3048e-05
+Method Three,100,5.7808e-05
+Method Four,100,3.7526e-05
+Method Five,100,2.6666e-05
+ 
+t 1 i 10000
+Expected Result: 10000
+Method One,10000,0.000133807
+Method Two,10000,0.000714919
+Method Three,10000,0.000816041
+Method Four,10000,0.000315842
+Method Five,10000,0.000130461
+ 
+t 1 i 10000
+Expected Result: 10000
+Method One,10000,0.000145624
+Method Two,10000,0.000736867
+Method Three,10000,0.000821908
+Method Four,10000,0.000296886
+Method Five,10000,0.000138414
+ 
+t 1 i 10000
+Expected Result: 10000
+Method One,10000,0.000111557
+Method Two,10000,0.00072642
+Method Three,10000,0.000834641
+Method Four,10000,0.000297313
+Method Five,10000,0.00013247
+ 
+t 1 i 10000
+Expected Result: 10000
+Method One,10000,0.00014251
+Method Two,10000,0.000773285
+Method Three,10000,0.00081875
+Method Four,10000,0.000268031
+Method Five,10000,7.1476e-05
+ 
+t 1 i 10000
+Expected Result: 10000
+Method One,10000,0.000152976
+Method Two,10000,0.000735103
+Method Three,10000,0.000803159
+Method Four,10000,0.000312899
+Method Five,10000,0.000130144
+ 
+t 1 i 1000000
+Expected Result: 1000000
+Method One,1000000,0.0048743
+Method Two,1000000,0.0563776
+Method Three,1000000,0.0459738
+Method Four,1000000,0.0203537
+Method Five,1000000,0.00488825
+ 
+t 1 i 1000000
+Expected Result: 1000000
+Method One,1000000,0.00512776
+Method Two,1000000,0.0562587
+Method Three,1000000,0.0609848
+Method Four,1000000,0.0211896
+Method Five,1000000,0.00512675
+ 
+t 1 i 1000000
+Expected Result: 1000000
+Method One,1000000,0.00482921
+Method Two,1000000,0.0558719
+Method Three,1000000,0.0607094
+Method Four,1000000,0.0197019
+Method Five,1000000,0.00511871
+ 
+t 1 i 1000000
+Expected Result: 1000000
+Method One,1000000,0.00497374
+Method Two,1000000,0.0563604
+Method Three,1000000,0.0610692
+Method Four,1000000,0.021128
+Method Five,1000000,0.00497276
+ 
+t 1 i 1000000
+Expected Result: 1000000
+Method One,1000000,0.00487757
+Method Two,1000000,0.0562777
+Method Three,1000000,0.060469
+Method Four,1000000,0.0210048
+Method Five,1000000,0.00354212
+ 
+t 1 i 5000000
+Expected Result: 5000000
+Method One,5000000,0.0241327
+Method Two,5000000,0.178622
+Method Three,5000000,0.190257
+Method Four,5000000,0.0852327
+Method Five,5000000,0.0166257
+ 
+t 1 i 5000000
+Expected Result: 5000000
+Method One,5000000,0.016572
+Method Two,5000000,0.178101
+Method Three,5000000,0.19044
+Method Four,5000000,0.0853328
+Method Five,5000000,0.0240999
+ 
+t 1 i 5000000
+Expected Result: 5000000
+Method One,5000000,0.0202087
+Method Two,5000000,0.178746
+Method Three,5000000,0.189686
+Method Four,5000000,0.0856588
+Method Five,5000000,0.02362
+ 
+t 1 i 5000000
+Expected Result: 5000000
+Method One,5000000,0.0241719
+Method Two,5000000,0.178315
+Method Three,5000000,0.17616
+Method Four,5000000,0.0854757
+Method Five,5000000,0.0238151
+ 
+t 1 i 5000000
+Expected Result: 5000000
+Method One,5000000,0.0242027
+Method Two,5000000,0.178437
+Method Three,5000000,0.190243
+Method Four,5000000,0.0850884
+Method Five,5000000,0.0242686
+ 
+\n
+t 4 i 1
+Expected Result: 4
+Method One,4,9.3245e-05
+Method Two,4,8.6491e-05
+Method Three,4,8.1648e-05
+Method Four,4,5.2749e-05
+Method Five,4,8.1281e-05
+ 
+t 4 i 1
+Expected Result: 4
+Method One,4,9.1562e-05
+Method Two,4,8.5078e-05
+Method Three,4,8.1032e-05
+Method Four,4,5.2116e-05
+Method Five,4,8.6221e-05
+ 
+t 4 i 1
+Expected Result: 4
+Method One,4,9.507e-05
+Method Two,4,8.6601e-05
+Method Three,4,5.3599e-05
+Method Four,4,8.8928e-05
+Method Five,4,8.3075e-05
+ 
+t 4 i 1
+Expected Result: 4
+Method One,4,9.5208e-05
+Method Two,4,5.7891e-05
+Method Three,4,0.000118468
+Method Four,4,8.1588e-05
+Method Five,4,5.9774e-05
+ 
+t 4 i 1
+Expected Result: 4
+Method One,4,9.4578e-05
+Method Two,4,5.8932e-05
+Method Three,4,5.9312e-05
+Method Four,4,8.5181e-05
+Method Five,4,5.4191e-05
+ 
+t 4 i 100
+Expected Result: 400
+Method One,336,6.4433e-05
+Method Two,400,0.000103338
+Method Three,400,0.000117537
+Method Four,400,9.984e-05
+Method Five,400,8.6808e-05
+ 
+t 4 i 100
+Expected Result: 400
+Method One,400,7.3645e-05
+Method Two,400,0.000146352
+Method Three,400,6.8217e-05
+Method Four,400,6.009e-05
+Method Five,400,4.842e-05
+ 
+t 4 i 100
+Expected Result: 400
+Method One,337,6.9887e-05
+Method Two,400,0.000138535
+Method Three,400,0.000176543
+Method Four,400,9.7666e-05
+Method Five,400,7.1601e-05
+ 
+t 4 i 100
+Expected Result: 400
+Method One,347,5.2952e-05
+Method Two,400,0.0001567
+Method Three,400,0.000133773
+Method Four,400,8.3044e-05
+Method Five,400,3.0993e-05
+ 
+t 4 i 100
+Expected Result: 400
+Method One,340,6.7475e-05
+Method Two,400,0.000112812
+Method Three,400,0.000109001
+Method Four,400,5.6069e-05
+Method Five,400,6.7722e-05
+ 
+t 4 i 10000
+Expected Result: 40000
+Method One,20644,0.000401228
+Method Two,40000,0.0086223
+Method Three,40000,0.00656632
+Method Four,40000,0.000786014
+Method Five,40000,0.000319892
+ 
+t 4 i 10000
+Expected Result: 40000
+Method One,10023,0.000362628
+Method Two,40000,0.0115419
+Method Three,40000,0.0123726
+Method Four,40000,0.00205907
+Method Five,40000,0.000392325
+ 
+t 4 i 10000
+Expected Result: 40000
+Method One,13038,0.000418879
+Method Two,40000,0.0103298
+Method Three,40000,0.00781634
+Method Four,40000,0.00140066
+Method Five,40000,0.000276622
+ 
+t 4 i 10000
+Expected Result: 40000
+Method One,40000,0.000285239
+Method Two,40000,0.0124692
+Method Three,40000,0.0145574
+Method Four,40000,0.000759084
+Method Five,40000,0.000364982
+ 
+t 4 i 10000
+Expected Result: 40000
+Method One,32009,0.000373501
+Method Two,40000,0.00695948
+Method Three,40000,0.0134943
+Method Four,40000,0.000782085
+Method Five,40000,0.000269757
+ 
+t 4 i 1000000
+Expected Result: 4000000
+Method One,1748599,0.0304576
+Method Two,4000000,0.652661
+Method Three,4000000,0.653248
+Method Four,4000000,0.10009
+Method Five,4000000,0.023402
+ 
+t 4 i 1000000
+Expected Result: 4000000
+Method One,1243556,0.0347162
+Method Two,4000000,0.651799
+Method Three,4000000,0.597713
+Method Four,4000000,0.124475
+Method Five,4000000,0.0249829
+ 
+t 4 i 1000000
+Expected Result: 4000000
+Method One,1531145,0.0284422
+Method Two,4000000,0.495703
+Method Three,4000000,0.639026
+Method Four,4000000,0.0946875
+Method Five,4000000,0.0298088
+ 
+t 4 i 1000000
+Expected Result: 4000000
+Method One,1780329,0.0346417
+Method Two,4000000,0.577218
+Method Three,4000000,0.585508
+Method Four,4000000,0.080622
+Method Five,4000000,0.0270139
+ 
+t 4 i 1000000
+Expected Result: 4000000
+Method One,2346210,0.014933
+Method Two,4000000,0.616663
+Method Three,4000000,0.606756
+Method Four,4000000,0.082225
+Method Five,4000000,0.0345808
+ 
+t 4 i 5000000
+Expected Result: 20000000
+Method One,6232531,0.120425
+Method Two,20000000,2.54811
+Method Three,20000000,3.29299
+Method Four,20000000,0.454773
+Method Five,20000000,0.106954
+ 
+t 4 i 5000000
+Expected Result: 20000000
+Method One,6002247,0.0982083
+Method Two,20000000,2.69447
+Method Three,20000000,2.75668
+Method Four,20000000,0.410001
+Method Five,20000000,0.113432
+ 
+t 4 i 5000000
+Expected Result: 20000000
+Method One,8832120,0.11297
+Method Two,20000000,2.43713
+Method Three,20000000,2.88471
+Method Four,20000000,0.483113
+Method Five,20000000,0.0995448
+ 
+t 4 i 5000000
+Expected Result: 20000000
+Method One,6505855,0.12907
+Method Two,20000000,2.63172
+Method Three,20000000,2.58893
+Method Four,20000000,0.452964
+Method Five,20000000,0.101803
+ 
+t 4 i 5000000
+Expected Result: 20000000
+Method One,6548601,0.113672
+Method Two,20000000,2.62504
+Method Three,20000000,2.53611
+Method Four,20000000,0.440617
+Method Five,20000000,0.0892393
+ 
+\n
+t 16 i 1
+Expected Result: 16
+Method One,16,0.000317122
+Method Two,16,0.000315188
+Method Three,16,0.000336291
+Method Four,16,0.000429006
+Method Five,16,0.000302853
+ 
+t 16 i 1
+Expected Result: 16
+Method One,16,0.000457194
+Method Two,16,0.000281953
+Method Three,16,0.000446776
+Method Four,16,0.000349812
+Method Five,16,0.000352654
+ 
+t 16 i 1
+Expected Result: 16
+Method One,15,0.000369691
+Method Two,16,0.000321177
+Method Three,16,0.000244977
+Method Four,16,0.000345941
+Method Five,16,0.000253695
+ 
+t 16 i 1
+Expected Result: 16
+Method One,16,0.000411028
+Method Two,16,0.0002454
+Method Three,16,0.000369582
+Method Four,16,0.000427806
+Method Five,16,0.000321454
+ 
+t 16 i 1
+Expected Result: 16
+Method One,15,0.000311474
+Method Two,16,0.0002563
+Method Three,16,0.000374524
+Method Four,16,0.000247081
+Method Five,16,0.000408721
+ 
+t 16 i 100
+Expected Result: 1600
+Method One,630,0.000327547
+Method Two,1600,0.00061923
+Method Three,1600,0.00085393
+Method Four,1600,0.000344987
+Method Five,1600,0.000291539
+ 
+t 16 i 100
+Expected Result: 1600
+Method One,104,0.000176172
+Method Two,1600,0.000447152
+Method Three,1600,0.000524392
+Method Four,1600,0.00036431
+Method Five,1600,0.000247737
+ 
+t 16 i 100
+Expected Result: 1600
+Method One,504,0.000279289
+Method Two,1600,0.000394713
+Method Three,1600,0.000723426
+Method Four,1600,0.000346601
+Method Five,1600,0.000199986
+ 
+t 16 i 100
+Expected Result: 1600
+Method One,768,0.000247858
+Method Two,1600,0.0007017
+Method Three,1600,0.000727434
+Method Four,1600,0.000180766
+Method Five,1600,0.000151409
+ 
+t 16 i 100
+Expected Result: 1600
+Method One,1600,0.000347061
+Method Two,1600,0.000531042
+Method Three,1600,0.000403398
+Method Four,1600,0.000441768
+Method Five,1600,0.000246147
+ 
+t 16 i 10000
+Expected Result: 160000
+Method One,27342,0.00136075
+Method Two,160000,0.0505154
+Method Three,160000,0.0520539
+Method Four,160000,0.00790111
+Method Five,160000,0.00109487
+ 
+t 16 i 10000
+Expected Result: 160000
+Method One,122713,0.00101127
+Method Two,160000,0.0408776
+Method Three,160000,0.0367394
+Method Four,160000,0.0061723
+Method Five,160000,0.00086829
+ 
+t 16 i 10000
+Expected Result: 160000
+Method One,76067,0.00114648
+Method Two,160000,0.053373
+Method Three,160000,0.0436975
+Method Four,160000,0.0057922
+Method Five,160000,0.00109166
+ 
+t 16 i 10000
+Expected Result: 160000
+Method One,55840,0.00137368
+Method Two,160000,0.0478391
+Method Three,160000,0.049724
+Method Four,160000,0.00357155
+Method Five,160000,0.0007622
+ 
+t 16 i 10000
+Expected Result: 160000
+Method One,147259,0.000811604
+Method Two,160000,0.0498154
+Method Three,160000,0.0572921
+Method Four,160000,0.00703442
+Method Five,160000,0.000904366
+ 
+t 16 i 1000000
+Expected Result: 16000000
+Method One,1932659,0.108006
+Method Two,16000000,3.19121
+Method Three,16000000,3.46864
+Method Four,16000000,0.335488
+Method Five,16000000,0.0531622
+ 
+t 16 i 1000000
+Expected Result: 16000000
+Method One,3516690,0.0806066
+Method Two,16000000,3.12487
+Method Three,16000000,3.22053
+Method Four,16000000,0.317642
+Method Five,16000000,0.0821703
+ 
+t 16 i 1000000
+Expected Result: 16000000
+Method One,2073886,0.0778906
+Method Two,16000000,3.25005
+Method Three,16000000,3.42995
+Method Four,16000000,0.350372
+Method Five,16000000,0.0579608
+ 
+t 16 i 1000000
+Expected Result: 16000000
+Method One,2126472,0.0944398
+Method Two,16000000,3.2474
+Method Three,16000000,3.13235
+Method Four,16000000,0.351638
+Method Five,16000000,0.0970074
+ 
+t 16 i 1000000
+Expected Result: 16000000
+Method One,2027953,0.0980776
+Method Two,16000000,3.217
+Method Three,16000000,3.53491
+Method Four,16000000,0.34077
+Method Five,16000000,0.076156
+ 
+t 16 i 5000000
+Expected Result: 80000000
+Method One,6155546,0.363387
+Method Two,80000000,15.8527
+Method Three,80000000,15.8975
+Method Four,80000000,1.67395
+Method Five,80000000,0.35164
+ 
+t 16 i 5000000
+Expected Result: 80000000
+Method One,7988626,0.333281
+Method Two,80000000,15.5732
+Method Three,80000000,17.4044
+Method Four,80000000,1.72189
+Method Five,80000000,0.233693
+ 
+t 16 i 5000000
+Expected Result: 80000000
+Method One,6790020,0.396346
+Method Two,80000000,16.6049
+Method Three,80000000,16.3565
+Method Four,80000000,1.78502
+Method Five,80000000,0.36826
+ 
+t 16 i 5000000
+Expected Result: 80000000
+Method One,8235304,0.373524
+Method Two,80000000,15.9036
+Method Three,80000000,16.3146
+Method Four,80000000,1.73554
+Method Five,80000000,0.312737
+ 
+t 16 i 5000000
+Expected Result: 80000000
+Method One,8391698,0.343266
+Method Two,80000000,15.6318
+Method Three,80000000,16.3061
+Method Four,80000000,1.72568
+Method Five,80000000,0.365286
+ 
+\n
+t 24 i 1
+Expected Result: 24
+Method One,24,0.000547295
+Method Two,24,0.000486768
+Method Three,24,0.000414358
+Method Four,24,0.00040464
+Method Five,24,0.000379587
+ 
+t 24 i 1
+Expected Result: 24
+Method One,24,0.000424819
+Method Two,24,0.000338815
+Method Three,24,0.000536546
+Method Four,24,0.000345369
+Method Five,24,0.000513089
+ 
+t 24 i 1
+Expected Result: 24
+Method One,24,0.000275916
+Method Two,24,0.000479049
+Method Three,24,0.000468994
+Method Four,24,0.000377741
+Method Five,24,0.000391193
+ 
+t 24 i 1
+Expected Result: 24
+Method One,19,0.000411049
+Method Two,24,0.000496966
+Method Three,24,0.000586141
+Method Four,24,0.000449683
+Method Five,24,0.00036039
+ 
+t 24 i 1
+Expected Result: 24
+Method One,19,0.00053107
+Method Two,24,0.000251492
+Method Three,24,0.000438662
+Method Four,24,0.000480988
+Method Five,24,0.000452403
+ 
+t 24 i 100
+Expected Result: 2400
+Method One,2400,0.000358233
+Method Two,2400,0.000618194
+Method Three,2400,0.00100233
+Method Four,2400,0.000386761
+Method Five,2400,0.000427529
+ 
+t 24 i 100
+Expected Result: 2400
+Method One,2400,0.000517543
+Method Two,2400,0.000891046
+Method Three,2400,0.000599265
+Method Four,2400,0.000377433
+Method Five,2400,0.000300174
+ 
+t 24 i 100
+Expected Result: 2400
+Method One,218,0.000254589
+Method Two,2400,0.000899323
+Method Three,2400,0.000984443
+Method Four,2400,0.000422895
+Method Five,2400,0.000180323
+ 
+t 24 i 100
+Expected Result: 2400
+Method One,1341,0.000398631
+Method Two,2400,0.00093128
+Method Three,2400,0.00114671
+Method Four,2400,0.0002237
+Method Five,2400,0.000301512
+ 
+t 24 i 100
+Expected Result: 2400
+Method One,129,0.000185867
+Method Two,2400,0.00105562
+Method Three,2400,0.000814032
+Method Four,2400,0.00045728
+Method Five,2400,0.000254798
+ 
+t 24 i 10000
+Expected Result: 240000
+Method One,14597,0.00207268
+Method Two,240000,0.0677883
+Method Three,240000,0.0899706
+Method Four,240000,0.00742637
+Method Five,240000,0.000834355
+ 
+t 24 i 10000
+Expected Result: 240000
+Method One,225849,0.00103943
+Method Two,240000,0.0588942
+Method Three,240000,0.0871431
+Method Four,240000,0.00546834
+Method Five,240000,0.00122712
+ 
+t 24 i 10000
+Expected Result: 240000
+Method One,83117,0.00133081
+Method Two,240000,0.0717184
+Method Three,240000,0.0755299
+Method Four,240000,0.00548329
+Method Five,240000,0.000936132
+ 
+t 24 i 10000
+Expected Result: 240000
+Method One,189781,0.000945014
+Method Two,240000,0.0676488
+Method Three,240000,0.0744678
+Method Four,240000,0.00867142
+Method Five,240000,0.00125675
+ 
+t 24 i 10000
+Expected Result: 240000
+Method One,230006,0.00113563
+Method Two,240000,0.0736487
+Method Three,240000,0.0855754
+Method Four,240000,0.00691
+Method Five,240000,0.00108928
+ 
+t 24 i 1000000
+Expected Result: 24000000
+Method One,1746777,0.127579
+Method Two,24000000,5.09675
+Method Three,24000000,5.85214
+Method Four,24000000,0.50268
+Method Five,24000000,0.0799388
+ 
+t 24 i 1000000
+Expected Result: 24000000
+Method One,2922558,0.119685
+Method Two,24000000,5.13692
+Method Three,24000000,5.55457
+Method Four,24000000,0.495605
+Method Five,24000000,0.104355
+ 
+t 24 i 1000000
+Expected Result: 24000000
+Method One,2577490,0.0978976
+Method Two,24000000,5.19618
+Method Three,24000000,5.27864
+Method Four,24000000,0.519222
+Method Five,24000000,0.0610003
+ 
+t 24 i 1000000
+Expected Result: 24000000
+Method One,3070354,0.14215
+Method Two,24000000,5.25642
+Method Three,24000000,5.7767
+Method Four,24000000,0.496865
+Method Five,24000000,0.102918
+ 
+t 24 i 1000000
+Expected Result: 24000000
+Method One,2360599,0.146625
+Method Two,24000000,5.40778
+Method Three,24000000,5.37678
+Method Four,24000000,0.518134
+Method Five,24000000,0.112001
+ 
+t 24 i 5000000
+Expected Result: 120000000
+Method One,8972311,0.531181
+Method Two,120000000,25.1681
+Method Three,120000000,27.2436
+Method Four,120000000,2.55605
+Method Five,120000000,0.490345
+ 
+t 24 i 5000000
+Expected Result: 120000000
+Method One,7305526,0.568959
+Method Two,120000000,25.0243
+Method Three,120000000,26.1204
+Method Four,120000000,2.55907
+Method Five,120000000,0.339108
+ 
+t 24 i 5000000
+Expected Result: 120000000
+Method One,7716301,0.591063
+Method Two,120000000,24.6642
+Method Three,120000000,26.2978
+Method Four,120000000,2.50607
+Method Five,120000000,0.298504
+ 
+t 24 i 5000000
+Expected Result: 120000000
+Method One,6753749,0.55329
+Method Two,120000000,24.4604
+Method Three,120000000,28.241
+Method Four,120000000,2.53522
+Method Five,120000000,0.350729
+ 
+t 24 i 5000000
+Expected Result: 120000000
+Method One,7918371,0.621854
+Method Two,120000000,27.0304
+Method Three,120000000,26.4882
+Method Four,120000000,2.55356
+Method Five,120000000,0.521731
+ 
+\n
+t 32 i 1
+Expected Result: 32
+Method One,32,0.000376459
+Method Two,32,0.000481874
+Method Three,32,0.000545604
+Method Four,32,0.000458521
+Method Five,32,0.000415203
+ 
+t 32 i 1
+Expected Result: 32
+Method One,32,0.000464952
+Method Two,32,0.000478978
+Method Three,32,0.000442596
+Method Four,32,0.000440838
+Method Five,32,0.000426971
+ 
+t 32 i 1
+Expected Result: 32
+Method One,32,0.000413785
+Method Two,32,0.000463647
+Method Three,32,0.000479949
+Method Four,32,0.000568737
+Method Five,32,0.000335057
+ 
+t 32 i 1
+Expected Result: 32
+Method One,30,0.000500269
+Method Two,32,0.000382129
+Method Three,32,0.000502135
+Method Four,32,0.000616846
+Method Five,32,0.000524857
+ 
+t 32 i 1
+Expected Result: 32
+Method One,22,0.000473577
+Method Two,32,0.000523943
+Method Three,32,0.000494782
+Method Four,32,0.000444192
+Method Five,32,0.000490271
+ 
+t 32 i 100
+Expected Result: 3200
+Method One,2674,0.000354927
+Method Two,3200,0.00130045
+Method Three,3200,0.00143802
+Method Four,3200,0.000282065
+Method Five,3200,0.000228461
+ 
+t 32 i 100
+Expected Result: 3200
+Method One,822,0.000428704
+Method Two,3200,0.0014994
+Method Three,3200,0.00129729
+Method Four,3200,0.000284024
+Method Five,3200,0.000466977
+ 
+t 32 i 100
+Expected Result: 3200
+Method One,281,0.000255116
+Method Two,3200,0.00128125
+Method Three,3200,0.00121443
+Method Four,3200,0.000251359
+Method Five,3200,0.000371962
+ 
+t 32 i 100
+Expected Result: 3200
+Method One,193,0.000262701
+Method Two,3200,0.0012909
+Method Three,3200,0.00123208
+Method Four,3200,0.000259097
+Method Five,3200,0.000185687
+ 
+t 32 i 100
+Expected Result: 3200
+Method One,264,0.000183773
+Method Two,3200,0.00111893
+Method Three,3200,0.00125242
+Method Four,3200,0.000239793
+Method Five,3200,0.000303334
+ 
+t 32 i 10000
+Expected Result: 320000
+Method One,19023,0.00216479
+Method Two,320000,0.0811181
+Method Three,320000,0.108988
+Method Four,320000,0.0132477
+Method Five,320000,0.00143791
+ 
+t 32 i 10000
+Expected Result: 320000
+Method One,14708,0.00226577
+Method Two,320000,0.0912391
+Method Three,320000,0.0975827
+Method Four,320000,0.0138736
+Method Five,320000,0.00131678
+ 
+t 32 i 10000
+Expected Result: 320000
+Method One,13784,0.00216927
+Method Two,320000,0.0999315
+Method Three,320000,0.10447
+Method Four,320000,0.0131821
+Method Five,320000,0.00145501
+ 
+t 32 i 10000
+Expected Result: 320000
+Method One,11722,0.0022566
+Method Two,320000,0.0917047
+Method Three,320000,0.108065
+Method Four,320000,0.0139274
+Method Five,320000,0.00121289
+ 
+t 32 i 10000
+Expected Result: 320000
+Method One,19182,0.00212946
+Method Two,320000,0.0972149
+Method Three,320000,0.105797
+Method Four,320000,0.0131789
+Method Five,320000,0.00126947
+ 
+t 32 i 1000000
+Expected Result: 32000000
+Method One,2078206,0.161664
+Method Two,32000000,6.90621
+Method Three,32000000,7.84589
+Method Four,32000000,0.654715
+Method Five,32000000,0.0823793
+ 
+t 32 i 1000000
+Expected Result: 32000000
+Method One,3005428,0.193038
+Method Two,32000000,6.77226
+Method Three,32000000,7.96432
+Method Four,32000000,0.661823
+Method Five,32000000,0.0994834
+ 
+t 32 i 1000000
+Expected Result: 32000000
+Method One,2848173,0.161245
+Method Two,32000000,7.34243
+Method Three,32000000,7.7395
+Method Four,32000000,0.642328
+Method Five,32000000,0.0958354
+ 
+t 32 i 1000000
+Expected Result: 32000000
+Method One,3292629,0.169136
+Method Two,32000000,6.97703
+Method Three,32000000,8.22343
+Method Four,32000000,0.661531
+Method Five,32000000,0.110345
+ 
+t 32 i 1000000
+Expected Result: 32000000
+Method One,2325782,0.161442
+Method Two,32000000,7.3709
+Method Three,32000000,7.8092
+Method Four,32000000,0.676865
+Method Five,32000000,0.102563
+ 
+t 32 i 5000000
+Expected Result: 160000000
+Method One,8646946,0.877994
+Method Two,160000000,36.4239
+Method Three,160000000,38.4501
+Method Four,160000000,3.42665
+Method Five,160000000,0.443644
+ 
+t 32 i 5000000
+Expected Result: 160000000
+Method One,17631820,0.619439
+Method Two,160000000,35.2098
+Method Three,160000000,38.873
+Method Four,160000000,3.31892
+Method Five,160000000,0.433892
+ 
+t 32 i 5000000
+Expected Result: 160000000
+Method One,9897443,0.854524
+Method Two,160000000,33.4448
+Method Three,160000000,38.3284
+Method Four,160000000,3.42717
+Method Five,160000000,0.443289
+ 
+t 32 i 5000000
+Expected Result: 160000000
+Method One,17672569,0.592436
+Method Two,160000000,35.7275
+Method Three,160000000,39.2372
+Method Four,160000000,3.31964
+Method Five,160000000,0.512537
+ 
+t 32 i 5000000
+Expected Result: 160000000
+Method One,12416654,0.719227
+Method Two,160000000,35.3147
+Method Three,160000000,36.4846
+Method Four,160000000,3.34877
+Method Five,160000000,0.665968
+ 
+\n
+t 54 i 1
+Expected Result: 54
+Method One,51,0.000504976
+Method Two,54,0.000982516
+Method Three,54,0.000508385
+Method Four,54,0.000649516
+Method Five,54,0.000591004
+ 
+t 54 i 1
+Expected Result: 54
+Method One,52,0.0006211
+Method Two,54,0.000698227
+Method Three,54,0.000610321
+Method Four,54,0.000778815
+Method Five,54,0.000706332
+ 
+t 54 i 1
+Expected Result: 54
+Method One,47,0.000626898
+Method Two,54,0.000616111
+Method Three,54,0.000652351
+Method Four,54,0.000805905
+Method Five,54,0.000563412
+ 
+t 54 i 1
+Expected Result: 54
+Method One,32,0.000774311
+Method Two,54,0.000629327
+Method Three,54,0.000592554
+Method Four,54,0.000755584
+Method Five,54,0.000682444
+ 
+t 54 i 1
+Expected Result: 54
+Method One,26,0.000716248
+Method Two,54,0.000627035
+Method Three,54,0.000723419
+Method Four,54,0.000777134
+Method Five,54,0.000513743
+ 
+t 54 i 100
+Expected Result: 5400
+Method One,1528,0.000636945
+Method Two,5400,0.00214161
+Method Three,5400,0.00227312
+Method Four,5400,0.000561568
+Method Five,5400,0.000489164
+ 
+t 54 i 100
+Expected Result: 5400
+Method One,1072,0.000475606
+Method Two,5400,0.00191901
+Method Three,5400,0.00208402
+Method Four,5400,0.000422839
+Method Five,5400,0.000471285
+ 
+t 54 i 100
+Expected Result: 5400
+Method One,1030,0.000446463
+Method Two,5400,0.00202707
+Method Three,5400,0.00198764
+Method Four,5400,0.000373667
+Method Five,5400,0.000424697
+ 
+t 54 i 100
+Expected Result: 5400
+Method One,1013,0.000532635
+Method Two,5400,0.00186644
+Method Three,5400,0.00200311
+Method Four,5400,0.000396049
+Method Five,5400,0.000410267
+ 
+t 54 i 100
+Expected Result: 5400
+Method One,555,0.000413297
+Method Two,5400,0.00198307
+Method Three,5400,0.00208897
+Method Four,5400,0.000381659
+Method Five,5400,0.000426637
+ 
+t 54 i 10000
+Expected Result: 540000
+Method One,41125,0.00378467
+Method Two,540000,0.145889
+Method Three,540000,0.160088
+Method Four,540000,0.017596
+Method Five,540000,0.00278073
+ 
+t 54 i 10000
+Expected Result: 540000
+Method One,45401,0.00430035
+Method Two,540000,0.127582
+Method Three,540000,0.182884
+Method Four,540000,0.0178499
+Method Five,540000,0.00261749
+ 
+t 54 i 10000
+Expected Result: 540000
+Method One,38665,0.0039842
+Method Two,540000,0.144347
+Method Three,540000,0.182041
+Method Four,540000,0.0170474
+Method Five,540000,0.00276357
+ 
+t 54 i 10000
+Expected Result: 540000
+Method One,55238,0.00351419
+Method Two,540000,0.163316
+Method Three,540000,0.189331
+Method Four,540000,0.0162464
+Method Five,540000,0.00232736
+ 
+t 54 i 10000
+Expected Result: 540000
+Method One,105918,0.00421615
+Method Two,540000,0.156984
+Method Three,540000,0.204953
+Method Four,540000,0.0182501
+Method Five,540000,0.00261814
+ 
+t 54 i 1000000
+Expected Result: 54000000
+Method One,2986494,0.331934
+Method Two,54000000,13.7915
+Method Three,54000000,15.6447
+Method Four,54000000,1.09716
+Method Five,54000000,0.143224
+ 
+t 54 i 1000000
+Expected Result: 54000000
+Method One,2610278,0.359385
+Method Two,54000000,13.5661
+Method Three,54000000,16.1103
+Method Four,54000000,1.08614
+Method Five,54000000,0.178732
+ 
+t 54 i 1000000
+Expected Result: 54000000
+Method One,2764250,0.373275
+Method Two,54000000,14.93
+Method Three,54000000,15.1291
+Method Four,54000000,1.08892
+Method Five,54000000,0.166795
+ 
+t 54 i 1000000
+Expected Result: 54000000
+Method One,2719655,0.346083
+Method Two,54000000,13.3804
+Method Three,54000000,14.4779
+Method Four,54000000,1.09568
+Method Five,54000000,0.187117
+ 
+t 54 i 1000000
+Expected Result: 54000000
+Method One,3258635,0.322893
+Method Two,54000000,14.1899
+Method Three,54000000,15.764
+Method Four,54000000,1.10979
+Method Five,54000000,0.165245
+ 
+t 54 i 5000000
+Expected Result: 270000000
+Method One,19926644,1.55907
+Method Two,270000000,74.7253
+Method Three,270000000,75.1573
+Method Four,270000000,5.58751
+Method Five,270000000,0.57519
+ 
+t 54 i 5000000
+Expected Result: 270000000
+Method One,20741505,1.53167
+Method Two,270000000,71.2422
+Method Three,270000000,72.9138
+Method Four,270000000,5.47617
+Method Five,270000000,0.8295
+ 
+t 54 i 5000000
+Expected Result: 270000000
+Method One,16684432,1.6001
+Method Two,270000000,71.9651
+Method Three,270000000,75.556
+Method Four,270000000,5.52605
+Method Five,270000000,0.720886
+ 
+t 54 i 5000000
+Expected Result: 270000000
+Method One,15956637,1.70159
+Method Two,270000000,73.2466
+Method Three,270000000,74.7023
+Method Four,270000000,5.45174
+Method Five,270000000,0.600766
+ 
+t 54 i 5000000
+Expected Result: 270000000
+Method One,12750269,1.7561
+Method Two,270000000,68.9634
+Method Three,270000000,75.7805
+Method Four,270000000,5.31737
+Method Five,270000000,0.848007
+ 
+\n
